@@ -1,4 +1,5 @@
-# Akka HTTP / Scala.js / Websocket Chat App
+# CHATAPP
+## w/ Akka HTTP / Scala.js
 
 Chat which uses akka-http with scala.js frontend, implementing a
 websocket based chat application.
